@@ -1,5 +1,5 @@
 # :house_with_garden: Shokuniwa RealEstate Insights :house_with_garden:
-##### Unveiling Key Drivers of HDB Resale Prices in Singapore for enhanced data-driven decision making
+#### Unveiling Key Drivers of HDB Resale Prices in Singapore for enhanced data-driven decision making
 
 ### Problem Statement
 While Shokuniwa RealEstate Insights Pte Ltd specializes in new developments, they are currently looking to expand their influence in the Singapore HDB resale market. Hence, the company is looking for a viable solution to predict market prices for resale HDB apartments, which will allow their agents to have an estimate of the resale prices for their current listings and price them feasibly.
@@ -38,8 +38,8 @@ The project file is in .ipynb format and was created in VS Code and Jupyter Note
 
 ***Datasets***
 
-'train.csv': https://www.kaggle.com/competitions/dsi-sg-project-2-regression-challenge-hdb-price/data
+'train.csv': https://www.kaggle.com/competitions/dsi-sg-project-2-regression-challenge-hdb-price/data</br>
 Contains 75 features with resale prices of over 150,000 data points, between 2012-2021. To be used as training set for the model.
 
-'test.csv': https://www.kaggle.com/competitions/dsi-sg-project-2-regression-challenge-hdb-price/data
+'test.csv': https://www.kaggle.com/competitions/dsi-sg-project-2-regression-challenge-hdb-price/data</br>
 Contains 75 features without the resale prices of close to 17,000 data points for prediction.
